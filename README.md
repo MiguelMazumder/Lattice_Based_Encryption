@@ -2,6 +2,7 @@
 
 This Rust project implements lattice-based encryption functionalities using matrix operations. It provides modules for encrypting and decrypting CSV data files with specified encryption keys.
 
+Presentation Link: [https://docs.google.com/presentation/d/1DrshoYlo5VLek2xoPk5Fx1VUsJ6SxCxzVOjUzn1B0v4/edit?usp=sharing]
 ## Table of Contents
 
 - [Modules](#modules)
